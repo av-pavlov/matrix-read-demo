@@ -1,0 +1,1 @@
+A = [map(int, line.split(' ')) for line in open("data.txt","r").readlines().split("\n")]
